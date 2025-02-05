@@ -5,7 +5,7 @@ This repository explores hillslope evolution and its dynamics through a diverse 
 $$\frac{\partial z}{\partial t} = D \frac{\partial^2 z}{\partial x^2}$$
 
 where:
-- $(x, t)$ = elevation at position $x$ and time $t$
+- $z(x, t)$ = elevation at position $x$ and time $t$
 - $D$ = diffusion coefficient,
 - $\frac{\partial^2 z}{\partial x^2}$ = curvature of the slope,
 - $t$ = time, and $x$ = spatial coordinate along the hillslope.
